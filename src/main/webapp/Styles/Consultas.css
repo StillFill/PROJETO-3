@@ -1,0 +1,6 @@
+.consulta-header {
+    display:flex;
+    justify-content: space-around;
+    background-color: rgba(0,0,0,0.2);
+}
+

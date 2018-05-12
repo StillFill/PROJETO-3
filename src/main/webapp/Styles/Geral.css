@@ -1,0 +1,20 @@
+body {
+    margin: 0 !important;
+}
+.principal-navbar {
+    display: flex;
+    background-color: white;
+}
+
+.navItem {
+    padding: 1em;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.navItem:hover {
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+}
